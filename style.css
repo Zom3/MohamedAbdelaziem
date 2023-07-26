@@ -188,14 +188,3 @@ font-size: 0.8em;
 }
 
 }
-
-@media(max-width:600px) {
-.text{
-margin-left: -199px;
-}
-
-.main{
-width: 132%;
-}
-
-}
