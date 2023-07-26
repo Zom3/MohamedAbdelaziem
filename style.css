@@ -188,3 +188,23 @@ font-size: 0.8em;
 }
 
 }
+
+@media(max-width:600px) {
+    
+nav a {
+display: block;
+margin: 0 auto 15px;
+}
+    
+    nav ul {
+    justify-content: center;
+    }
+.text{
+margin-left: -199px;
+}
+
+.main{
+width: 132%;
+}
+
+}
