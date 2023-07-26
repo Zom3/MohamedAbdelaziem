@@ -190,12 +190,6 @@ font-size: 0.8em;
 }
 
 @media(max-width:600px) {
-    
-nav a {
-display: block;
-margin: 0 auto 15px;
-}
-
 .text{
 margin-left: -199px;
 }
